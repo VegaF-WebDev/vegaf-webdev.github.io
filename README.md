@@ -1,2 +1,2 @@
-# vegaf-wec2023-web-bootstrap.github.io
+# WEC-2023 VEGAF PROJECT WEB BOOTSTRAP UTAMA 2023-2024
 TUGAS Web Bootstrap tahun 2023-2024
