@@ -3,6 +3,7 @@ body {
     background-repeat: no-repeat;
     background-position: right top;
     background-attachment: fixed;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
   .nav-link {
     border: 2px solid blue;
