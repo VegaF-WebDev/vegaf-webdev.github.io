@@ -11,6 +11,7 @@ body {
     padding: 5px;
     margin: 5px;
     background-color: lightskyblue;
+    text-align: end;
   }
   #judul1 {
     border: 2px solid blue;
