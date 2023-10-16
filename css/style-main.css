@@ -1,38 +1,41 @@
 body {
-    background-image: url("/images/background/windows-xp-bliss-4k-lu-1920x1080.png");
-    background-repeat: no-repeat;
-    background-position: right top;
-    background-attachment: fixed;
-    font-family: Verdana, sans-serif;
-  }
-  .nav-link {
-    border: 2px solid blue;
-    border-radius: 6px;
-    padding: 5px;
-    margin: 5px;
-    background-color: lightskyblue;
-  }
-  #judul1 {
-    border: 2px solid blue;
-    border-radius: 6px;
-    padding: 5px;
-    margin: 5px;
-    background-color: lightskyblue;
-    text-align: center;
-  }
-  #judul2 {
-    border: 2px solid red;
-    border-radius: 6px;
-    padding: 5px;
-    margin: 5px;
-    background-color: lightcoral;
-    text-align: center;
-  }
-  #judul3 {
-    border: 2px solid lightskyblue;
-    border-radius: 6px;
-    padding: 5px;
-    margin: 5px;
-    background-color: lightblue;
-    text-align: center;
-  }
+  background-image: url("/images/background/windows-xp-bliss-4k-lu-1920x1080.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+  font-family: Verdana, sans-serif;
+}
+.nav-link {
+  border: 2px solid blue;
+  border-radius: 6px;
+  padding: 5px;
+  margin: 5px;
+  background-color: lightskyblue;
+}
+#judul1 {
+  border: 2px solid blue;
+  border-radius: 6px;
+  padding: 5px;
+  margin: 5px;
+  background-color: lightskyblue;
+  text-align: center;
+  font-weight: bold;
+}
+#judul2 {
+  border: 2px solid red;
+  border-radius: 6px;
+  padding: 5px;
+  margin: 5px;
+  background-color: lightcoral;
+  text-align: center;
+  font-weight: bold;
+}
+#judul3 {
+  border: 2px solid lightskyblue;
+  border-radius: 6px;
+  padding: 5px;
+  margin: 5px;
+  background-color: lightblue;
+  text-align: center;
+  font-weight: bold;
+}
