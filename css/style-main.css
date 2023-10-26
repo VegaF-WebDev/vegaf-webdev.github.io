@@ -1,19 +1,26 @@
 body {
-  background-image: url("/images/background/windows-xp-bliss-4k-lu-1920x1080.png");
+  background-image: url("/images/background/windows-vista-1920x1080-aurora-microsoft-5k-23361.png");
   background-repeat: no-repeat;
   background-position: right top;
   background-attachment: fixed;
+  background-size: cover;
   font-family: Verdana, sans-serif;
 }
 .nav-link {
-  border: 2px solid blue;
-  border-radius: 6px;
+  border: 2px hidden #00bfff;
+  border-radius: 15px;
   padding: 5px;
   margin: 5px;
-  background-color: lightskyblue;
+  text-align: center;
+}
+.nav-link:hover {
+  background-color: #0093DD;
+}
+.dropdown a:hover {
+  background-color: #0093DD;
 }
 #judul1 {
-  border: 2px solid blue;
+  border: 2px solid #007aa5;
   border-radius: 6px;
   padding: 5px;
   margin: 5px;
@@ -22,11 +29,11 @@ body {
   font-weight: bold;
 }
 #judul2 {
-  border: 2px solid red;
+  border: 2px solid darkred;
   border-radius: 6px;
   padding: 5px;
   margin: 5px;
-  background-color: lightcoral;
+  background-color:#dc143c;
   text-align: center;
   font-weight: bold;
 }
@@ -38,4 +45,22 @@ body {
   background-color: lightblue;
   text-align: center;
   font-weight: bold;
+}
+#jumbotron1judul {
+  text-align: center;
+}
+.dropdown-menu li{
+  position: relative;
+}
+.dropdown-menu .submenu{ 
+  display: none;
+  position: absolute;
+  left:100%; top:-7px;
+}
+.dropdown-menu .submenu-left{ 
+  right:100%; left:auto;
+}
+.dropdown-menu > li:hover{ background-color: #f1f1f1 }
+.dropdown-menu > li:hover > .submenu{
+  display: block;
 }
