@@ -1,0 +1,10 @@
+body {
+    background-image: url("/images/background/windows-vista-1920x1080-aurora-microsoft-5k-23361.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    font-family: Verdana, sans-serif;
+}
+#Jumbotron {
+    background-image: url("/images/background/windows-xp-bliss-4k-lu-1920x1080.png");
+}
